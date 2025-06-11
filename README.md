@@ -23,9 +23,7 @@ The goal of this analysis is to explore pizza sales data and deliver insights th
 ## 🛠 Tools Used
 
 - **Power BI** for dashboards and visual storytelling
-- **Python (Pandas, Matplotlib)** for data exploration
 - **Excel** for initial data cleanup
-- **Jupyter Notebook** for documentation and exploration
 
 ---
 ## Dashboard
