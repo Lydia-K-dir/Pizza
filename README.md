@@ -31,8 +31,8 @@ The goal of this analysis is to explore pizza sales data and deliver insights th
 
 ## 📈 Dashboard Preview
 
-![Pizza Sales Dashboard](visuals/dashboard_screenshot.png)
-![Pizza Sales Dashboard](visuals/dashboard_screenshot.png)
+![Pizza Sales Dashboard](images/Screenshot 2025-06-11 092221.png)
+![Pizza Sales Dashboard]()
 ---
 
 ## 📎 Dataset
