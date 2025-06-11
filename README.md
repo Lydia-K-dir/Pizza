@@ -45,8 +45,7 @@ The goal of this analysis is to explore pizza sales data and deliver insights th
 - Fridays and Saturdays are peak sales days.
 - 12:00 PM and 6:00 PM are peak ordering hours.
 - The most ordered pizza is **Classic Deluxe**.
-- Some pizzas like **Bruschetta** had very low sales—candidates for removal or rebranding.
-- Sales spike during holidays and weekends—ideal for promotions.
+- Some pizzas like **Bruschetta** had very low sales—should be removed or rebranded
 
 ## 📬 Contact
 
