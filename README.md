@@ -30,7 +30,7 @@ The goal of this analysis is to explore pizza sales data and deliver insights th
 ---
 ## Dashboard
 
-![Pizza Sales Dashboard]()
+[Pizza Sales Dashboard]()
 
 
 ## 📎 Dataset
