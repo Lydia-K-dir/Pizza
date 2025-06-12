@@ -22,8 +22,8 @@ The goal of this analysis is to explore pizza sales data and deliver insights th
 
 ## 🛠 Tools Used
 
-- **Power BI** for dashboards and visual storytelling
-- **Excel** for initial data cleanup
+- Power BI
+  
 
 ---
 ## Dashboard
@@ -41,7 +41,6 @@ The goal of this analysis is to explore pizza sales data and deliver insights th
 - Fridays and Saturdays are peak sales days.
 - 12:00 PM and 6:00 PM are peak ordering hours.
 - The most ordered pizza is **Classic Deluxe**.
-- Some pizzas like **Brie Carre** had very low sales—should be removed or rebranded
 
 ## 📬 Contact
 
